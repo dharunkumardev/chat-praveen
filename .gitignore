@@ -4,6 +4,6 @@ frontend/package-lock.json
 
 # Removing For backend configurations
 package-lock.json
-./node_modules
+.node_modules
 
 .env
